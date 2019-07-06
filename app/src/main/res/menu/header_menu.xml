@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/usersScoresBtn"
+        android:icon="@drawable/ic_score_black_24dp"
+        android:title="@string/scoreHeader"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/userPageBtn"
+        android:icon="@drawable/ic_user_black_24dp"
+        android:title="@string/signInBtn"
+        app:showAsAction="ifRoom" />
+</menu>

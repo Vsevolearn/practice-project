@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">everyTree</string>
+    <string name="loadMsg">Loading...</string>
+    <string name="retryMsg">Do you want to retry?</string>
+    <string name="passwordHint">Password</string>
+    <string name="loginHint">User Name</string>
+    <string name="firstNameHint">First Name</string>
+    <string name="lastNameHint">Last Name</string>
+    <string name="emailHint">Email</string>
+    <string name="totalRecordsHint">Total Records</string>
+    <string name="favTreesHint">Your Favorite Trees</string>
+    <string name="userProfileHeader">Your Profile</string>
+    <string name="confirmPasswordHint">Confirm Password</string>
+
+    <!-- Button text -->
+    <string name="signInBtn">Sign In</string>
+    <string name="signUpBtn">Sign Up</string>
+    <string name="signOutBtn">Sign Out</string>
+    <string name="editBtn">Edit</string>
+    <string name="moreBtn">More</string>
+    <string name="saveBtn">Save</string>
+    <string name="cancelBtn">Cancel</string>
+    <string name="photoBtn">Add Photo</string>
+    <string name="retryBtn">Retry</string>
+    <string name="createAccountBtn">Create Account</string>
+    <string name="fromGalleryBtn">From Gallery</string>
+
+    <string name="scoreHeader">Score</string>
+
+    <!-- NAV SCROLL -->
+    <string name="infoHeader">Info</string>
+    <string name="navHeader1_1">Tree Information</string>
+    <string name="nav_item2">Common Name</string>
+    <string name="nav_item3">Scientific Name</string>
+    <string name="nav_item4">Trunk Diameter</string>
+    <string name="nav_item4_1">Convert to diameter</string>
+    <string name="nav_item5">Tree Height</string>
+    <string name="nav_item6">Skeletal Branches Number</string>
+    <string name="nav_item7">Condition</string>
+
+    <string name="dateHeader">Dates</string>
+    <string name="navHeader2_1">Target Dates</string>
+    <string name="nav_item8">Information Input Date</string>
+    <string name="nav_item9">Date Planted</string>
+    <string name="nav_item10">Date Removed</string>
+    <string name="nav_item11">Revision List</string>
+
+    <string name="siteHeader">Site</string>
+    <string name="navHeader3_1">Planting Site</string>
+    <string name="nav_item13">Nearest address</string>
+    <string name="nav_item14">Site Type</string>
+
+    <string name="photoHeader">Photos</string>
+    <string name="nav_item15">TREEKEEPER</string>
+
+    <!-- hints -->
+    <string name="hintText2">Acer pseudoplatanus L.</string>
+    <string name="hintText3">Value in cm</string>
+    <string name="hintText4">Value in m</string>
+    <string name="hintText5">Quantity</string>
+    <string name="hintText6">Additional information</string>
+
+    <!-- APP CONST -->
+    <string name="doneMsg">Done!</string>
+    <string name="notSet">Not set</string>
+    <string name="confirmExit">Are you sure that want to exit?</string>
+    <string name="confirmExitMsg">You will lost all your changes!</string>
+    <string name="retryTitleMsg">Error when we\'re getting all markers!</string>
+</resources>

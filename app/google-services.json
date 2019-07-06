@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "796645091260",
+    "firebase_url": "https://everytree-release.firebaseio.com",
+    "project_id": "everytree-release",
+    "storage_bucket": "everytree-release.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796645091260:android:937eb9c07446a8c5",
+        "android_client_info": {
+          "package_name": "com.uclab.everytree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796645091260-okqpjqciilf7gdo5ehvivnh0ubnvnf2m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uclab.everytree",
+            "certificate_hash": "225727ff04f55e53023066a092b52290a29efb85"
+          }
+        },
+        {
+          "client_id": "796645091260-1mprcgeadm48v0rqi8tkpg5a5r2upe8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW70wkxe7dYwvkLM_cs9sQJXJ0H2HoNSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796645091260-1mprcgeadm48v0rqi8tkpg5a5r2upe8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
